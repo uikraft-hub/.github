@@ -72,9 +72,9 @@ Our mission is to deliver best GUI/Web UI that help or solves an important probl
 
 <div align="center">
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?ukr-projects=uikraft-hub&show_icons=true&theme=radical&count_private=true)
+![Organization Stats](https://github-readme-stats.vercel.app/api?username=ukr-projects&orgs=uikraft-hub&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ukr-projects=uikraft-hub&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ukr-projects&orgs=uikraft-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false)
 
 </div>
 
