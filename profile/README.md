@@ -116,8 +116,8 @@ We believe in the power of collaboration and welcome contributions from develope
 
 **⭐ Star our repositories if you find them useful!**
 
-Made with ❤️ by the Ujjwal Nova
+Made with ❤️ by the ukr
 
-*© 2025 Your uikraft-hub. All rights reserved.*
+*© 2025 uikraft-hub. All rights reserved.*
 
 </div>
