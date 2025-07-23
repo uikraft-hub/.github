@@ -7,7 +7,6 @@
 ### Building the future, one commit at a time
 
 [![Website](https://img.shields.io/badge/🌐_Website-Visit-blue?style=for-the-badge)]()
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)]()
 
 </div>
 
