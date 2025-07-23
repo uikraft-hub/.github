@@ -6,7 +6,17 @@
 
 ### Building the future, one commit at a time
 
-[![Website](https://img.shields.io/badge/🌐_Website-Visit-blue?style=for-the-badge)]()
+<div align="center">
+  <a href="https://www.linkedin.com/in/ujjwal-kumar-rai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/u_nova01" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
 
 </div>
 
