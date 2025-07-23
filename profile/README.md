@@ -68,16 +68,6 @@ Our mission is to deliver best GUI/Web UI that help or solves an important probl
 
 ---
 
-## 📊 Organization Stats
-
-<div align="center">
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=ukr-projects&orgs=uikraft-hub&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-
-</div>
-
----
-
 ## 🤝 Get Involved
 
 We believe in the power of collaboration and welcome contributions from developers of all skill levels!
